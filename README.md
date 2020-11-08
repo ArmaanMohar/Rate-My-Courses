@@ -68,4 +68,5 @@ The Repo is a data access object that allows us to recieve/send Models to our da
 The Service uses Repositories to execute a certain operation specified by the client.
 The Controller are routes that the client calls to request a certain operation. 
 
+<br>
 <p>The server makes use of REST API.</p>
