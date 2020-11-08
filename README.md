@@ -62,7 +62,7 @@ A shield icon will show up on your navbar if you're an admin.
 <hr>
 
 <h3>Architecture</h3>
-The server is modelled using a Model - Repo - Service - Controller architecture, and makes use of REST APi.
+The server is modelled using a Model - Repo - Service - Controller architecture, and makes use of REST API.
 The Models are basically schemas that allow us to access/update fields that belong to them.
 The Repo is a data access object that allows us to recieve/send Models to our database.
 The Service uses Repositories to execute a certain operation specified by the client.
